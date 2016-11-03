@@ -2,13 +2,4 @@ It's a :
   New file
   New day
   New way
-Chicken Soup
-newline
-newline
-newline
-newline
-newline
-newline
-newline
-newline
-newline
+Chicken Soup for the engineering development person
