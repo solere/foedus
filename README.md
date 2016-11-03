@@ -3,3 +3,4 @@ It's a :
   New day
   New way
 Chicken Soup
+newline
