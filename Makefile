@@ -1,2 +1,2 @@
 all:
-	gcc helloworld.c -o helloWorld
+	@gcc helloworld.c -o helloWorld
